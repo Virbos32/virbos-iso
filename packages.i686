@@ -122,11 +122,11 @@ xfsprogs
 xl2tpd
 zsh
 
-# virbos repo
-virbos-livescripts
-virbos-logos
-maxfetch
-alacritty-sixel
+# virbos repo -- this needs to be ported
+# virbos-livescripts
+# virbos-logos
+# maxfetch
+# alacritty-sixel
 
 # X
 i3-wm
