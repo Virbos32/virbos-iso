@@ -5,5 +5,6 @@ fi
 
 ~/.automated_script.sh
 
-echo "Starting Sway"
-sway
+echo "Starting i3"
+echo "exec i3" >> .xinitrc
+startx
