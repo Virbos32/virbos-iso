@@ -88,7 +88,6 @@ pptpclient
 pv
 qemu-guest-agent
 refind
-reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -123,10 +122,10 @@ xl2tpd
 zsh
 
 # virbos repo -- this needs to be ported
-# virbos-livescripts
-# virbos-logos
-# maxfetch
-# alacritty-sixel
+virbos-livescripts
+virbos-logos
+maxfetch
+alacritty-sixel
 
 # X
 i3-wm
